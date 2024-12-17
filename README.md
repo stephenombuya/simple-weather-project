@@ -86,11 +86,6 @@ fetch(apiUrl)
 5. **Favorites**: Allow users to save their favorite cities for quick access.
 
 
-## **====TODO**
-- Configure the application to work with the updated code `App.js` instead of `app.js`
-
-**=======**
-
 
 
 ### **Customization**
